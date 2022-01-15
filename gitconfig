@@ -50,5 +50,5 @@
 [pull]
   rebase = false
 [user]
-	email = gh api ...than1544@colorado.edu
+	email = than1544@colorado.edu
 	name = thomas andrieu
